@@ -6,7 +6,7 @@ import java.awt.event.*;
 
 /**
  *
- * @author sudda
+ * @author uddhap
  */
 public class SignupTwo extends JFrame implements ActionListener{
     
